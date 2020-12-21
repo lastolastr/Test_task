@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sNk6XSzh+XXZYz3BpCoukHpzzEM7q+RtswwL/EQukukElotCTuWCUb3DdyYWOUf/SuxtA0Nr6W98qd3iCFAeg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Suler\\source\\repos\\Тестовое_задание_Насонов\\Тестовое_задание_Насонов\\Тестовое_задание_Насонов.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suler\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\Suler\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Suler\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
