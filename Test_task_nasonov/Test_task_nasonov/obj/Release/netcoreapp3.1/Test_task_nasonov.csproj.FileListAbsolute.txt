@@ -1,0 +1,12 @@
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\bin\Release\netcoreapp3.1\Test_task_nasonov.exe
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\bin\Release\netcoreapp3.1\Test_task_nasonov.deps.json
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\bin\Release\netcoreapp3.1\Test_task_nasonov.runtimeconfig.json
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\bin\Release\netcoreapp3.1\Test_task_nasonov.runtimeconfig.dev.json
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\bin\Release\netcoreapp3.1\Test_task_nasonov.dll
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\bin\Release\netcoreapp3.1\Test_task_nasonov.pdb
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\obj\Release\netcoreapp3.1\Test_task_nasonov.AssemblyInfoInputs.cache
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\obj\Release\netcoreapp3.1\Test_task_nasonov.AssemblyInfo.cs
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\obj\Release\netcoreapp3.1\Test_task_nasonov.csproj.CoreCompileInputs.cache
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\obj\Release\netcoreapp3.1\Test_task_nasonov.dll
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\obj\Release\netcoreapp3.1\Test_task_nasonov.pdb
+D:\Users\Suler\source\repos\Test_task_nasonov\Test_task_nasonov\obj\Release\netcoreapp3.1\Test_task_nasonov.genruntimeconfig.cache

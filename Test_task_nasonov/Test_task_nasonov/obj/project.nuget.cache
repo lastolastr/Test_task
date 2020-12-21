@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6GhjjmTlF9PGv8nvYSBkEBEh72U94WaRBxZXQkPYThVgDaLKtxZKS3KuFyUNYghshjeSBlQQPA6vRR9G71GWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Suler\\source\\repos\\Test_task_nasonov\\Test_task_nasonov\\Test_task_nasonov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suler\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\Suler\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Suler\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
